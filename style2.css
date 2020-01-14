@@ -1,3 +1,8 @@
 body {
-    background-color: darkgrey;
+    background-color: floralwhite;
 }
+h1{color: slateblue;}
+.recipes_tab{background-color: paleturquoise;}
+h2.sugar {color: purple;}
+h2.notouch{color: red}
+img.touchmydessert{width: 400px;}
