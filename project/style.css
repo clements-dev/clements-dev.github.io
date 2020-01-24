@@ -1,0 +1,67 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.icon-title {
+    font-size: 1.3em;
+    margin-right: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+th.tab_header {
+    color: white;
+    background-color: rgb(60, 60, 60);
+}
+
+.carousel-item img{
+width: auto;
+height: 400px;
+margin: auto; 
+display: block;
+}
+
+.jumbotron-wfont {
+    color: white;
+}
+
+.jumbotron-bgimg1 {
+    background-image: url(img/bgimg1.jpg);
+    background-size: auto auto; 
+}
+
+.jumbotron-bgimg2 {
+    background-image: url(img/bgimg2.jpg);
+    background-size: auto auto;
+}
+
+.jumbotron-bgimg3 {
+    background-image: url(img/bgimg3.jpg);
+    background-size: 100% auto; 
+}
+
+.jumbotron-bgimg4 {
+    background-image: url(img/bgimg4.jpg);
+    background-size: 100% auto; 
+}
+
+.jumbotron-bgimg5 {
+    background-image: url(img/bgimg5.jpg);
+    background-size: 100% auto; 
+}
+
+.jumbotron-bgimg6 {
+    background-image: url(img/bgimg6.jpg);
+    background-size: 100% auto; 
+}
+
+.card-img-top {
+    width: 150px;
+    height: auto;
+    margin: auto; 
+}
+
+.card-title {
+    font-weight: bold;
+}
